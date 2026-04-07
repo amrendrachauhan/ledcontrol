@@ -15,11 +15,11 @@ function App() {
       <h1>ESP8266 LED Dashboard</h1>
 
       <button onClick={ledOn} style={{padding:"15px",margin:"10px"}}>
-        LED ON
+        LED OFF
       </button>
 
       <button onClick={ledOff} style={{padding:"15px",margin:"10px"}}>
-        LED OFF
+        LED ON
       </button>
 
     </div>
